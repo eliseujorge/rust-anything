@@ -1,12 +1,14 @@
- <p align="center">
-  <img src="docs/assets/logo.svg" width="160" height="160" alt="O caranguejo do rust-anything, com uma tag de código na boca">
+<p align="center">
+  <img src="assets/logo.svg" width="160" height="160" alt="O caranguejo do rust-anything, com uma tag de código na boca">
 </p>
 
 <h1 align="center">rust-anything</h1>
 
 <p align="center">por <a href="https://github.com/erkamyaman">erKam Yaman</a></p>
 
-<p align="center">English · <a href="README_PT.md">Português</a> · <a href="README_TR.md">Türkçe</a> · <a href="README_ZH.md">简体中文</a> · <a href="README_ZH-TW.md">繁體中文</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_FR.md">Français</a> · <a href="README_RU.md">Русский</a> · <a href="README_UK.md">Українська</a> · <a href="README_JA.md">日本語</a> · <a href="README_KO.md">한국어</a> · <a href="README_AZ.md">Azərbaycanca</a> · <a href="README_UZ.md">Oʻzbekcha</a> · <a href="README_KK.md">Қазақша</a> · <a href="README_KY.md">Кыргызча</a> · <a href="README_TK.md">Türkmençe</a> · <a href="README_TT.md">Татарча</a> · <a href="README_UG.md">ئۇيغۇرچە</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="README_TR.md">Türkçe</a> · <a href="README_ZH.md">简体中文</a> · <a href="README_ZH-TW.md">繁體中文</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_FR.md">Français</a> · Português · <a href="README_RU.md">Русский</a> · <a href="README_UK.md">Українська</a> · <a href="README_JA.md">日本語</a> · <a href="README_KO.md">한국어</a> · <a href="README_AZ.md">Azərbaycanca</a> · <a href="README_UZ.md">Oʻzbekcha</a> · <a href="README_KK.md">Қазақша</a> · <a href="README_KY.md">Кыргызча</a> · <a href="README_TK.md">Türkmençe</a> · <a href="README_TT.md">Татарча</a> · <a href="README_UG.md">ئۇيغۇرچە</a></p>
+
+<p align="center"><sub>Esta tradução é mantida pela comunidade e pode estar desatualizada em relação ao <a href="../README.md">README em inglês</a>.</sub></p>
 
 <p align="center"><em>Reescreva toda a sua aplicação em Rust. Mantenha-a funcional durante todo o processo.</em></p>
 
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/badge/languages-6-E2862A" alt="6 linguagens">
   <a href="#compatibilidade-com-agentes"><img src="https://img.shields.io/badge/works%20with-4%20agents-E2862A" alt="Compatível com 4 agentes"></a>
   <a href="https://github.com/erkamyaman/rust-anything/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/erkamyaman/rust-anything/ci.yml?branch=main&label=tests" alt="Testes"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-E2862A" alt="Licença MIT"></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-E2862A" alt="Licença MIT"></a>
   <a href="https://github.com/erkamyaman/rust-anything"><img src="https://img.shields.io/github/stars/erkamyaman/rust-anything?style=social" alt="Estrelas no GitHub"></a>
 </p>
 
